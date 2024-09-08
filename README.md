@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Azure cloud engineering and have experience in front end development.
 - 🚀 DIGITAL SKILL: Programming Languages: JavaScript (expert), Python (intermediate), C (intermediate), C++ (intermediate), Java (intermediate). Web development: HTML5(intermediate), CSS3 (intermediate), Bootstrap (intermediate), PHP (basic). Frameworks: React (intermediate), VUE.JS (intermediate). Database: MySQL (intermediate), SQL (intermediate). Office Tools: MS Word, Excel, Power Point, Microsoft Project, Outlook OS: MS Windows 10, macOS Sierra. Cloud Solutions: Azure (intermediate). Others: Docker(basic)
 - ⚡ Fun fact: I love chess.
-- 📫 How to reach me: +45 36 20 25 72, WEBSITE: [LinkedIn](https://www.linkedin.com/in/razan-bshara-863925285/), EMAIL: razanbshara98@gmail.com
+- 📫 How to reach me: +45 36 20 25 72, website: [LinkedIn](https://www.linkedin.com/in/razan-bshara-863925285/), email: razanbshara98@gmail.com
 
   
 
